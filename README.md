@@ -14,6 +14,7 @@ Here is the link for Remix - https://remix.ethereum.org/
 After clicking the link, you need to create a New File, just click "Create New File" name it on your preferences and save it with a .sol extension. Last, copy and paste the code provided down below:
 
 Source code:
+```javascript
 
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
@@ -56,6 +57,8 @@ contract MyToken {
 }
 
 }
+
+```
 
 
 # Compiling and Deploying
